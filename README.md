@@ -5,7 +5,7 @@
 * [Libraries used](#libraries-used)
 * [Run the project](#run-the-project)
 * [Analysis](#analysis)
-* [Source](#source)
+* [Reference](#reference)
 
 ## Introduction:
 In this project, we perform network emulation using Mininet. We create our own network topology, as shown [here](https://github.com/parthskansara/Network-Emulator/blob/main/Network%20Topology.png). We also implement routing protocols, to build routes from the source to the destination.
@@ -124,7 +124,7 @@ $ python iperf-test-25mb.py
 
 3. This [document](https://github.com/parthskansara/Network-Emulator/blob/main/docs/IPerf%20Test.pdf) explains the IPerf Test.
 
-## Source
+## Reference
 This project was completed as a part of the course CSE 534: Fundamentals of Computer Vision (Fall 2022) under [Prof. Aruna Balasubramanian](https://www.cs.stonybrook.edu/people/faculty/ArunaBalasubramanian) at Stony Brook University.
 
 
