@@ -23,7 +23,7 @@ To run the project, we first need to setup Mininet in a VM.
 ### Mininet Setup
 
 #### For Windows:
-1. Install a Virtual Machine Software (recommended: [Oracle VM](https://www.virtualbox.org/wiki/Downloads))
+1. Install a Virtual Machine Software (recommended: Oracle VM)
 
 
 2. Download the mininet VM image [here](https://github.com/mininet/mininet/releases/download/2.3.0/mininet-2.3.0-210211-ubuntu-18.04.5-server-amd64-ovf.zip)
